@@ -2,7 +2,7 @@
 Convert csv to lua script for game res  
 
 ### example
-building.xls  
+building.csv  
 <table>
     <tr>
         <td>name</td>
