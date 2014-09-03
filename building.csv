@@ -1,0 +1,10 @@
+name,use_money,use_food,is_init,defense
+string,number,number,bool,number
+名字,使用金币数,使用食物数,是否初始化,防御值
+house,1000,123,TRUE,100
+,123,,,120
+,456,,,130
+farm,100,234,FALSE,200
+,200,,,
+,200,,,
+,,,,
